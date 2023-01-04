@@ -6,11 +6,11 @@ Sử dụng thuật toán Naive Bayes, mô hình sẽ xác định một email l
 ### Cài đặt
 Máy tính cần cài đặt môi trường và trình dịch đối với Python để chạy chương trình
 Các thư viện cần có:
--pandas
--nltk
--numpy
--matplotlib
--collections
+* pandas
+* nltk
+* numpy
+* matplotlib
+* collections
 
 ### Các bước xử lý:
 Có thể chạy lần lượt các cell trong file SpamFilter.ipynb để có được kết quả từ đó đánh giá và so sánh độ hiệu quả của các cách biểu diễn dữ liệu (vocabulary) với nhau.
